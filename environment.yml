@@ -1,0 +1,10 @@
+name: brain-mets-cyprus-validation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=1.26
+  - pandas=2.2
+  - scipy=1.13
+  - nibabel=5.2
+  - simpleitk=2.3

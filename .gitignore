@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local environments and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Imaging and clinical data
+*.nii
+*.nii.gz
+*.dcm
+*.nrrd
+*.mha
+*.mhd
+*.zip
+*.tar
+*.tar.gz
+*.xlsx
+*.xls
+
+# Local manifests and generated results
+dataset.csv
+dataset_relinked.csv
+*_manifest.csv
+results/
+outputs/
+work/
+reference_masks_relinked/
+denominator_audit/
+rescore_relinked/
+bootstrap_clustered_cross_sectional/
+volume_change_relinked*/
+ranobm_out*/
+ranobm_new_lesion_audit*/
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*~
