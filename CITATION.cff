@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite the archived release using the
+  citation metadata below.
+title: >-
+  SPIRS-P1 Cyprus Longitudinal Validation: Manuscript Analysis Code
+type: software
+version: '1.0'
+date-released: 2026-09-18
+license: MIT
+repository-code: https://github.com/jjohnson12/brain-mets-cyprus-validation-p1
+url: https://github.com/jjohnson12/brain-mets-cyprus-validation-p1
+authors:
+  - family-names: Patel
+    given-names: Jay B.
+    orcid: https://orcid.org/0000-0002-8507-795X
+    affiliation: >-
+      Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts
+      General Hospital, Harvard Medical School
+  - family-names: Quinones Alvarado
+    given-names: Raymond
+    affiliation: >-
+      Department of Radiology and Biomedical Imaging, Yale School of Medicine
+  - family-names: Cho
+    given-names: Nicholas
+    affiliation: >-
+      Department of Radiology and Biomedical Imaging, Yale School of Medicine
+  - family-names: Colvin
+    given-names: Katelle
+    affiliation: >-
+      Department of Radiology and Biomedical Imaging, Yale School of Medicine
+  - family-names: Hanaoka
+    given-names: Mauro
+    affiliation: >-
+      Department of Radiology and Biomedical Imaging, Yale School of Medicine
+  - family-names: Tu
+    given-names: Long
+    affiliation: >-
+      Department of Radiology and Biomedical Imaging, Yale School of Medicine
+  - family-names: Marin
+    given-names: Thibault
+    affiliation: >-
+      Department of Radiology and Biomedical Imaging, Yale School of Medicine
+  - family-names: Johnson
+    given-names: Jason M.
+    orcid: https://orcid.org/0000-0001-7724-5784
+    affiliation: >-
+      Department of Radiology and Biomedical Imaging, Yale School of Medicine
+keywords:
+  - brain metastases
+  - magnetic resonance imaging
+  - deep learning
+  - segmentation
+  - longitudinal validation
+  - RANO-BM
+abstract: >-
+  Audited analysis code for external longitudinal evaluation of SPIRS-P1 on
+  the public Cyprus/PROTEAS brain-metastasis MRI dataset. The release covers
+  denominator auditing, reference-mask relinking, cross-sectional rescoring,
+  patient-clustered bootstrap confidence intervals, whole-burden change, and
+  reference-anchored modified RANO-BM endpoints. It excludes imaging, clinical
+  data, trained weights, predictions, and patient-level results.

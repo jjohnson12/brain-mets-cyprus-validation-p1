@@ -1,0 +1,58 @@
+{
+  "title": "SPIRS-P1 Cyprus Longitudinal Validation: Manuscript Analysis Code",
+  "description": "Audited analysis code for external longitudinal evaluation of SPIRS-P1 on the public Cyprus/PROTEAS brain-metastasis MRI dataset. The release covers denominator auditing, reference-mask relinking, cross-sectional rescoring, patient-clustered bootstrap confidence intervals, whole-burden change, and reference-anchored modified RANO-BM endpoints. It excludes imaging, clinical data, trained weights, predictions, and patient-level results.",
+  "creators": [
+    {
+      "name": "Patel, Jay B.",
+      "orcid": "0000-0002-8507-795X",
+      "affiliation": "Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Harvard Medical School"
+    },
+    {
+      "name": "Quinones Alvarado, Raymond",
+      "affiliation": "Department of Radiology and Biomedical Imaging, Yale School of Medicine"
+    },
+    {
+      "name": "Cho, Nicholas",
+      "affiliation": "Department of Radiology and Biomedical Imaging, Yale School of Medicine"
+    },
+    {
+      "name": "Colvin, Katelle",
+      "affiliation": "Department of Radiology and Biomedical Imaging, Yale School of Medicine"
+    },
+    {
+      "name": "Hanaoka, Mauro",
+      "affiliation": "Department of Radiology and Biomedical Imaging, Yale School of Medicine"
+    },
+    {
+      "name": "Tu, Long",
+      "affiliation": "Department of Radiology and Biomedical Imaging, Yale School of Medicine"
+    },
+    {
+      "name": "Marin, Thibault",
+      "affiliation": "Department of Radiology and Biomedical Imaging, Yale School of Medicine"
+    },
+    {
+      "name": "Johnson, Jason M.",
+      "orcid": "0000-0001-7724-5784",
+      "affiliation": "Department of Radiology and Biomedical Imaging, Yale School of Medicine"
+    }
+  ],
+  "version": "1.0",
+  "publication_date": "2026-09-18",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "language": "eng",
+  "keywords": [
+    "brain metastases",
+    "magnetic resonance imaging",
+    "deep learning",
+    "segmentation",
+    "longitudinal validation",
+    "RANO-BM"
+  ],
+  "references": [
+    "Cyprus/PROTEAS brain-metastasis MRI dataset, version 3. https://doi.org/10.5281/zenodo.17253793"
+  ]
+}
+

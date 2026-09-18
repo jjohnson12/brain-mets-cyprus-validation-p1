@@ -30,6 +30,8 @@ For whole-burden longitudinal analysis, all 170 reference-mask studies are retai
 ├── scripts/                 # Audited manuscript analysis scripts
 ├── docs/EXPECTED_RESULTS.md # Locked denominators and headline results
 ├── environment.yml          # Reproducible Python environment
+├── CITATION.cff             # GitHub and citation-tool metadata
+├── .zenodo.json             # Metadata used by Zenodo's GitHub integration
 ├── LICENSE
 └── README.md
 ```
@@ -157,6 +159,12 @@ Generated manifests and outputs may contain dataset case-unit identifiers and lo
 ## Intended use
 
 This software is for research and reproducibility only. It is not a medical device and is not intended for clinical diagnosis, treatment selection, or autonomous screening.
+
+## Citation and archival release
+
+The citation metadata for this software is provided in [`CITATION.cff`](CITATION.cff). Zenodo-specific release metadata are provided in [`.zenodo.json`](.zenodo.json); when both files are present, Zenodo's GitHub integration uses `.zenodo.json`.
+
+Version 1.0 is the manuscript-associated frozen analysis release. After the GitHub `v1.0` release is archived, cite the version-specific Zenodo DOI shown on the release record. The DOI is intentionally not hard-coded here before Zenodo mints it.
 
 ## License
 
