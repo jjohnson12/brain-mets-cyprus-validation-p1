@@ -1,5 +1,7 @@
 # SPIRS-P1 Cyprus longitudinal validation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22836620.svg)](https://doi.org/10.5281/zenodo.22836620)
+
 Analysis code for the manuscript-focused external evaluation of SPIRS-P1 on the longitudinal Cyprus/PROTEAS brain-metastasis MRI dataset.
 
 This repository contains the audited analysis layer used to establish cohort denominators, relink the released reference segmentations, rescore cross-sectional segmentation and lesion detection, estimate patient-clustered confidence intervals, and evaluate longitudinal tumor-burden and modified RANO-BM endpoints. It intentionally excludes training code, model weights, source imaging, derived patient-level data, internal infrastructure, and unrelated UCSF analyses.
@@ -164,7 +166,7 @@ This software is for research and reproducibility only. It is not a medical devi
 
 The citation metadata for this software is provided in [`CITATION.cff`](CITATION.cff). Zenodo-specific release metadata are provided in [`.zenodo.json`](.zenodo.json); when both files are present, Zenodo's GitHub integration uses `.zenodo.json`.
 
-Version 1.0 is the manuscript-associated frozen analysis release. After the GitHub `v1.0` release is archived, cite the version-specific Zenodo DOI shown on the release record. The DOI is intentionally not hard-coded here before Zenodo mints it.
+Version 1.0 is the manuscript-associated frozen analysis release. Cite the archived software release using the version-specific DOI [10.5281/zenodo.22836620](https://doi.org/10.5281/zenodo.22836620). The concept DOI [10.5281/zenodo.22836619](https://doi.org/10.5281/zenodo.22836619) resolves to the latest archived version.
 
 ## License
 
