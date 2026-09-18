@@ -23,6 +23,7 @@ authors:
       Department of Radiology and Biomedical Imaging, Yale School of Medicine
   - family-names: Cho
     given-names: Nicholas
+    orcid: https://orcid.org/0000-0002-8686-0575
     affiliation: >-
       Department of Radiology and Biomedical Imaging, Yale School of Medicine
   - family-names: Colvin
@@ -31,14 +32,17 @@ authors:
       Department of Radiology and Biomedical Imaging, Yale School of Medicine
   - family-names: Hanaoka
     given-names: Mauro
+    orcid: https://orcid.org/0000-0002-3962-5425
     affiliation: >-
       Department of Radiology and Biomedical Imaging, Yale School of Medicine
   - family-names: Tu
     given-names: Long
+    orcid: https://orcid.org/0000-0002-2419-5581
     affiliation: >-
       Department of Radiology and Biomedical Imaging, Yale School of Medicine
   - family-names: Marin
     given-names: Thibault
+    orcid: https://orcid.org/0000-0002-8669-1003
     affiliation: >-
       Department of Radiology and Biomedical Imaging, Yale School of Medicine
   - family-names: Johnson

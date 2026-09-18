@@ -13,6 +13,7 @@
     },
     {
       "name": "Cho, Nicholas",
+      "orcid": "0000-0002-8686-0575",
       "affiliation": "Department of Radiology and Biomedical Imaging, Yale School of Medicine"
     },
     {
@@ -21,14 +22,17 @@
     },
     {
       "name": "Hanaoka, Mauro",
+      "orcid": "0000-0002-3962-5425",
       "affiliation": "Department of Radiology and Biomedical Imaging, Yale School of Medicine"
     },
     {
       "name": "Tu, Long",
+      "orcid": "0000-0002-2419-5581",
       "affiliation": "Department of Radiology and Biomedical Imaging, Yale School of Medicine"
     },
     {
       "name": "Marin, Thibault",
+      "orcid": "0000-0002-8669-1003",
       "affiliation": "Department of Radiology and Biomedical Imaging, Yale School of Medicine"
     },
     {
@@ -55,4 +59,3 @@
     "Cyprus/PROTEAS brain-metastasis MRI dataset, version 3. https://doi.org/10.5281/zenodo.17253793"
   ]
 }
-
